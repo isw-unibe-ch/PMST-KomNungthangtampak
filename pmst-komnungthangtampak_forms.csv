@@ -1,0 +1,301 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,analysis_tag,source,page,language_id
+komnungthangtampak001,no_stem,1.sg,kei,kei,kei,k ei,k ei,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak002,no_stem,1.pl.excl,keini,keini,kei+ni,k ei n i,k ei + n i,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak003,no_stem,1.pl.incl,eini,eini,ei+ni,ei n i,ei + n i,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak004,no_stem,2.sg,nang,nang,nang,n a ŋ,n a ŋ,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak005,no_stem,2.pl,nangni,nangni,nang+ni,n a ŋ n i,n a ŋ + n i,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak006,no_stem,3.sg,ama,ama,a+ma,a m a,a + m a,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak007,no_stem,3.pl,anmani,anmani,a+n+ma+ni,a n m a n i,a + n + m a + n i,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak008,no_stem,3.pl,inni,inni,in+ni,i n n i,i n + n i,unspecified,,Kanshouwa2026Nungthangtampak,nopage,komnungthangtampak
+komnungthangtampak009,se,1.sg.fut.aff,ka-se-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,formal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak010,se,1.sg.fut.aff,ka-seng,ka-Σng,ka+Σ+ng,k a Σ ŋ,k a + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak011,se,1.pl.excl.fut.aff,ka-se-ang-ung,ka-Σ-ang-ung,ka+Σ+ang+ung,k a Σ a ŋ u ŋ,k a + Σ + a ŋ + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak012,se,1.pl.excl.fut.aff,ka-se-ung,ka-Σ-ung,ka+Σ+ung,k a Σ u ŋ,k a + Σ + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak013,se,1.pl.incl.fut.aff,ka-se-ang-mi,ka-Σ-ang-mi,ka+Σ+ang+mi,k a Σ a ŋ m i,k a + Σ + a ŋ + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak014,se,1.pl.incl.fut.aff,ka-seng-mi,ka-Σng-mi,Ka+Σ+ng+mi,⁇ a Σ ŋ m i,⁇ a + Σ + ŋ + m i,dialect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak015,mu,1.sg.2.sg.fut.aff,ka-na-mu-ang-che,ka-na-Σ-ang-che,ka+na+Σ+ang+che,k a n a Σ a ŋ tʃ e,k a + n a + Σ + a ŋ + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak016,mu,1.sg.2.sg.fut.aff,ka-na-mu-ang,ka-na-Σ-ang,ka+na+Σ+ang,k a n a Σ a ŋ,k a + n a + Σ + a ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak017,mu,1.sg.2.pl.fut.aff,ka-na-mu-ang-chui,ka-na-Σ-ang-chui,ka+na+Σ+ang+chui,k a n a Σ a ŋ tʃ ui,k a + n a + Σ + a ŋ + tʃ ui,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak018,mu,1.sg.2.pl.fut.aff,kan-mung-chui,kan-Σng-chui,ka+n+Σ+ng+chui,k a n Σ ŋ tʃ ui,k a + n + Σ + ŋ + tʃ ui,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak019,mu,1.pl.excl.2.sg.fut.aff,kan-na-mu-ang-che,kan-na-Σ-ang-che,ka+n+na+Σ+ang+che,k a n n a Σ a ŋ tʃ e,k a + n + n a + Σ + a ŋ + tʃ e,formal,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak020,mu,1.pl.excl.2.sg.fut.aff,kan-na-mung-che,kan-na-Σng-che,ka+n+na+Σ+ng+che,k a n n a Σ ŋ tʃ e,k a + n + n a + Σ + ŋ + tʃ e,informal,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak021,mu,1.pl.excl.2.sg.fut.aff,kan-mu-sik-che,kan-Σ-sik-che,ka+n+Σ+sik+che,k a n Σ s i k tʃ e,k a + n + Σ + s i k + tʃ e,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak022,mu,1.pl.excl.2.pl.fut.aff,kan-na-mu-ang-chui,kan-na-Σ-ang-chui,ka+n+na+Σ+ang+chui,k a n n a Σ a ŋ tʃ ui,k a + n + n a + Σ + a ŋ + tʃ ui,formal,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak023,mu,1.pl.excl.2.pl.fut.aff,kan-na-mung-chui,kan-na-Σng-chui,ka+n+na+Σ+ng+chui,k a n n a Σ ŋ tʃ ui,k a + n + n a + Σ + ŋ + tʃ ui,informal,fusion; mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak024,mu,1.pl.excl.2.pl.fut.aff,kan-na-mu-ang-chei,kan-na-Σ-ang-chei,ka+n+na+Σ+ang+chei,k a n n a Σ a ŋ tʃ ei,k a + n + n a + Σ + a ŋ + tʃ ei,dialect_var,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak025,mu,1.sg.3.sg.fut.aff,ka-mu-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak026,mu,1.sg.3.sg.fut.aff,ka-mung,ka-Σng,ka+Σ+ng,k a Σ ŋ,k a + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak027,mu,1.sg.3.pl.fut.aff,ka-mu-ang-ai,ka-Σ-ang-ai,ka+Σ+ang+ai,k a Σ a ŋ ai,k a + Σ + a ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak028,mu,1.sg.3.pl.fut.aff,ka-mung-ai,ka-Σng-ai,ka+Σ+ng+ai,k a Σ ŋ ai,k a + Σ + ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak029,mu,1.pl.excl.3.sg.fut.aff,kan-mu-ang,kan-Σ-ang,ka+n+Σ+ang,k a n Σ a ŋ,k a + n + Σ + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak030,mu,1.pl.excl.3.sg.fut.aff,kan-mung,kan-Σng,ka+n+Σ+ng,k a n Σ ŋ,k a + n + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak031,mu,1.pl.incl.3.sg.fut.aff,ni-mu-ang,ni-Σ-ang,ni+Σ+ang,n i Σ a ŋ,n i + Σ + a ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak032,mu,1.pl.excl.3.pl.fut.aff,kan-mu-ang-ai,kan-Σ-ang-ai,ka+n+Σ+ang+ai,k a n Σ a ŋ ai,k a + n + Σ + a ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak033,mu,1.pl.excl.3.pl.fut.aff,kan-mung-ai,kan-Σng-ai,ka+n+Σ+ng+ai,k a n Σ ŋ ai,k a + n + Σ + ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak034,mu,1.pl.incl.3.pl.fut.aff,ni-mu-ang-ai,ni-Σ-ang-ai,ni+Σ+ang+ai,n i Σ a ŋ ai,n i + Σ + a ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak035,mu,1.pl.incl.3.pl.fut.aff,ni-mung-ai,ni-Σng-ai,ni+Σ+ng+ai,n i Σ ŋ ai,n i + Σ + ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak036,mu,1.pl.incl.3.pl.fut.aff,kan-mung-ai,kan-Σng-ai,ka+n+Σ+ng+ai,k a n Σ ŋ ai,k a + n + Σ + ŋ + ai,dialect_var,fusion; morphophon,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak037,se,2.sg.fut.aff,ka-seng-che,ka-Σng-che,ka+Σ+ng+che,k a Σ ŋ tʃ e,k a + Σ + ŋ + tʃ e,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak038,se,2.pl.fut.aff,ka-seng-chui,ka-Σng-chui,ka+Σ+ng+chui,k a Σ ŋ tʃ ui,k a + Σ + ŋ + tʃ ui,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak039,mu,2.sg.1.sg.fut.aff,na-na-mu-ang,na-na-Σ-ang,na+na+Σ+ang,n a n a Σ a ŋ,n a + n a + Σ + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak040,mu,2.sg.1.sg.fut.aff,nan-mung,nan-Σng,na+n+Σ+ng,n a n Σ ŋ,n a + n + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak041,mu,2.sg.1.sg.fut.aff,na-mu-sik-eng,na-Σ-sik-eng,na+Σ+sik+eng,n a Σ s i k e ŋ,n a + Σ + s i k + e ŋ,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak042,mu,2.sg.1.pl.excl.fut.aff,na-na-mu-ang-ung,na-na-Σ-ang-ung,na+na+Σ+ang+ung,n a n a Σ a ŋ u ŋ,n a + n a + Σ + a ŋ + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak043,mu,2.sg.1.pl.excl.fut.aff,nan-mung-ung,nan-Σng-ung,na+n+Σ+ng+ung,n a n Σ ŋ u ŋ,n a + n + Σ + ŋ + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak044,mu,2.sg.1.pl.excl.fut.aff,na-ni-mung,na-ni-Σng,na+ni+Σ+ng,n a n i Σ ŋ,n a + n i + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak045,mu,2.pl.1.sg.fut.aff,nin-na-mu-ang,nin-na-Σ-ang,ni+n+na+Σ+ang,n i n n a Σ a ŋ,n i + n + n a + Σ + a ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak046,mu,2.pl.1.sg.fut.aff,nan-na-mung,nan-na-Σng,na+n+na+Σ+ng,n a n n a Σ ŋ,n a + n + n a + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak047,mu,2.pl.1.sg.fut.aff,nan-mu-sik,nan-Σ-sik,na+n+Σ+sik,n a n Σ s i k,n a + n + Σ + s i k,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak048,mu,2.pl.1.sg.fut.aff,nan-mung,nan-Σng,na+n+Σ+ng,n a n Σ ŋ,n a + n + Σ + ŋ,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak049,mu,2.pl.1.pl.excl.fut.aff,nin-na-mu-ang-ung,nin-na-Σ-ang-ung,ni+n+na+Σ+ang+ung,n i n n a Σ a ŋ u ŋ,n i + n + n a + Σ + a ŋ + u ŋ,unspecified,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak050,mu,2.pl.1.pl.excl.fut.aff,nan-na-mu-ang-ung,nan-na-Σ-ang-ung,na+n+na+Σ+ang+ung,n a n n a Σ a ŋ u ŋ,n a + n + n a + Σ + a ŋ + u ŋ,unspecified,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak051,mu,2.pl.1.pl.excl.fut.aff,nan-mu-ang-ung,nan-Σ-ang-ung,na+n+Σ+ang+ung,n a n Σ a ŋ u ŋ,n a + n + Σ + a ŋ + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak052,mu,2.pl.1.pl.excl.fut.aff,na-nin-mung,na-nin-Σng,na+ni+n+Σ+ng,n a n i n Σ ŋ,n a + n i + n + Σ + ŋ,sociolect_var,fusion; variable_order,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak053,mu,2.sg.3.sg.fut.aff,na-mu-ang,na-Σ-ang,na+Σ+ang,n a Σ a ŋ,n a + Σ + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak054,mu,2.sg.3.sg.fut.aff,na-mung,na-Σng,na+Σ+ng,n a Σ ŋ,n a + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak055,mu,2.sg.3.pl.fut.aff,na-mu-ang-ai,na-Σ-ang-ai,na+Σ+ang+ai,n a Σ a ŋ ai,n a + Σ + a ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak056,mu,2.sg.3.pl.fut.aff,na-mung-ai,na-Σng-ai,na+Σ+ng+ai,n a Σ ŋ ai,n a + Σ + ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak057,mu,2.pl.3.sg.fut.aff,nan-mu-ang,nan-Σ-ang,na+n+Σ+ang,n a n Σ a ŋ,n a + n + Σ + a ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak058,mu,2.pl.3.pl.fut.aff,nan-mu-ang-ai,nan-Σ-ang-ai,na+n+Σ+ang+ai,n a n Σ a ŋ ai,n a + n + Σ + a ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak059,mu,2.pl.3.pl.fut.aff,nan-mung-ai,nan-Σng-ai,na+n+Σ+ng+ai,n a n Σ ŋ ai,n a + n + Σ + ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak060,se,3.sg.fut.aff,ka-se-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak061,se,3.pl.fut.aff,ka-se-ang-ai,ka-Σ-ang-ai,ka+Σ+ang+ai,k a Σ a ŋ ai,k a + Σ + a ŋ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak062,mu,3.sg.1.sg.fut.aff,a-na-mu-ang,a-na-Σ-ang,a+na+Σ+ang,a n a Σ a ŋ,a + n a + Σ + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak063,mu,3.sg.1.sg.fut.aff,a-ni-mung,a-ni-Σng,a+ni+Σ+ng,a n i Σ ŋ,a + n i + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak064,mu,3.sg.1.pl.excl.fut.aff,a-na-mu-ang-ung,a-na-Σ-ang-ung,a+na+Σ+ang+ung,a n a Σ a ŋ u ŋ,a + n a + Σ + a ŋ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak065,mu,3.sg.1.pl.excl.fut.aff,a-ni-mung,a-ni-Σng,a+ni+Σ+ng,a n i Σ ŋ,a + n i + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak066,mu,3.sg.1.pl.incl.fut.aff,a-ni-mu-ang-ung,a-ni-Σ-ang-ung,a+ni+Σ+ang+ung,a n i Σ a ŋ u ŋ,a + n i + Σ + a ŋ + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak067,mu,3.sg.1.pl.incl.fut.aff,a-ni-mung,a-ni-Σng,a+ni+Σ+ng,a n i Σ ŋ,a + n i + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak068,mu,3.pl.1.sg.fut.aff,an-na-mu-ang,an-na-Σ-ang,a+n+na+Σ+ang,a n n a Σ a ŋ,a + n + n a + Σ + a ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak069,mu,3.pl.1.sg.fut.aff,an-ni-mu-ang,an-ni-Σ-ang,a+n+na+Σ+ang,a n n a Σ a ŋ,a + n + n a + Σ + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak070,mu,3.pl.1.sg.fut.aff,an-ni-mung,an-ni-Σng,a+n+ni+Σ+ng,a n n i Σ ŋ,a + n + n i + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak071,mu,3.pl.1.pl.excl.fut.aff,an-na-mu-ang-ung,an-na-Σ-ang-ung,a+n+na+Σ+ang+ung,a n n a Σ a ŋ u ŋ,a + n + n a + Σ + a ŋ + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak072,mu,3.pl.1.pl.excl.fut.aff,in-na-mu-ang-ung,in-na-Σ-ang-ung,i+n+na+Σ+ang+ung,i n n a Σ a ŋ u ŋ,i + n + n a + Σ + a ŋ + u ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak073,mu,3.pl.1.pl.excl.fut.aff,an-mung-ung,an-Σng-ung,a+n+Σ+ng+ung,a n Σ ŋ u ŋ,a + n + Σ + ŋ + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak074,mu,3.pl.1.pl.incl.fut.aff,an-na-mu-ang-mi,an-na-Σ-ang-mi,a+n+na+Σ+ang+mi,a n n a Σ a ŋ m i,a + n + n a + Σ + a ŋ + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak075,mu,3.pl.1.pl.incl.fut.aff,an-ni-mung,an-ni-Σng,a+n+ni+Σ+ng,a n n i Σ ŋ,a + n + n i + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak076,mu,3.sg.2.sg.fut.aff,a-na-mu-ang,a-na-Σ-ang,a+na+Σ+ang,a n a Σ a ŋ,a + n a + Σ + a ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak077,mu,3.sg.2.sg.fut.aff,a-ni-mung,a-ni-Σng,a+ni+Σ+ng,a n i Σ ŋ,a + n i + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak078,mu,3.sg.2.pl.fut.aff,a-na-mu-ang-chui,a-na-Σ-ang-chui,a+na+Σ+ang+chui,a n a Σ a ŋ tʃ ui,a + n a + Σ + a ŋ + tʃ ui,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak079,mu,3.sg.2.pl.fut.aff,na-mung-ai,na-Σng-ai,na+Σ+ng+ai,n a Σ ŋ ai,n a + Σ + ŋ + ai,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak080,mu,3.sg.2.pl.fut.aff,na-mung,na-Σng,na+Σ+ng,n a Σ ŋ,n a + Σ + ŋ,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak081,mu,3.pl.2.sg.fut.aff,an-na-mu-ang-che,an-na-Σ-ang-che,a+n+na+Σ+ang+che,a n n a Σ a ŋ tʃ e,a + n + n a + Σ + a ŋ + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak082,mu,3.pl.2.sg.fut.aff,an-mung-che,an-Σng-che,a+n+Σ+ng+che,a n Σ ŋ tʃ e,a + n + Σ + ŋ + tʃ e,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak083,mu,3.pl.2.pl.fut.aff,an-na-mu-ang-chui,an-na-Σ-ang-chui,a+n+na+Σ+ang+chui,a n n a Σ a ŋ tʃ ui,a + n + n a + Σ + a ŋ + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak084,mu,3.pl.2.pl.fut.aff,an-mu-ang-chui,an-Σ-ang-chui,a+n+Σ+ang+chui,a n Σ a ŋ tʃ ui,a + n + Σ + a ŋ + tʃ ui,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak085,mu,3.pl.2.pl.fut.aff,an-ni-mung,an-ni-Σng,a+n+ni+Σ+ng,a n n i Σ ŋ,a + n + n i + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak086,mu,3.sg.3.sg.fut.aff,a-mu-ang,a-Σ-ang,a+Σ+ang,a Σ a ŋ,a + Σ + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak087,mu,3.sg.3.sg.fut.aff,a-mung,a-Σng,a+Σ+ng,a Σ ŋ,a + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak088,mu,3.sg.3.pl.fut.aff,a-mu-ang-ai,a-Σ-ang-ai,a+Σ+ang+ai,a Σ a ŋ ai,a + Σ + a ŋ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak089,mu,3.sg.3.pl.fut.aff,a-mu-ang,a-Σ-ang,a+Σ+ang,a Σ a ŋ,a + Σ + a ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak090,mu,3.pl.3.sg.fut.aff,an-mu-ang,an-Σ-ang,a+n+Σ+ang,a n Σ a ŋ,a + n + Σ + a ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak091,mu,3.pl.3.sg.fut.aff,an-mu-ung,an-Σ-ung,a+n+Σ+ung,a n Σ u ŋ,a + n + Σ + u ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak092,mu,3.pl.3.pl.fut.aff,an-mu-ang-ai,an-Σ-ang-ai,a+n+Σ+ang+ai,a n Σ a ŋ ai,a + n + Σ + a ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak093,mu,3.pl.3.pl.fut.aff,an-mung-ai,an-Σng-ai,a+n+Σ+ng+ai,a n Σ ŋ ai,a + n + Σ + ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak094,se,1.sg.fut.neg,seng-mang,Σng-mang,Σ+ng+m+ang,Σ ŋ m a ŋ,Σ + ŋ + m + a ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak095,se,1.sg.fut.neg,se-ang-mang,Σ-ang-mang,Σ+ang+m+ang,Σ a ŋ m a ŋ,Σ + a ŋ + m + a ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak096,se,1.pl.excl.fut.neg,se-ang-mung,Σ-ang-Σng,Σ+ang+m+ung,Σ a ŋ m u ŋ,Σ + a ŋ + m + u ŋ,formal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak097,se,1.pl.excl.fut.neg,seng-mung,Σng-Σng,Σ+ng+m+ung,Σ ŋ m u ŋ,Σ + ŋ + m + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak098,se,1.pl.incl.fut.neg,se-ang-mak-mi,Σ-ang-mak-mi,Σ+ang+mak+mi,Σ a ŋ m a k m i,Σ + a ŋ + m a k + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak099,se,1.pl.incl.fut.neg,seng-mak-mi,Σng-mak-mi,Σ+ng+mak+mi,Σ ŋ m a k m i,Σ + ŋ + m a k + m i,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak100,mu,1.sg.2.sg.fut.neg,na-mu-ang-mang-che,na-Σ-ang-mang-che,na+Σ+ang+m+ang+che,n a Σ a ŋ m a ŋ tʃ e,n a + Σ + a ŋ + m + a ŋ + tʃ e,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak101,mu,1.sg.2.sg.fut.neg,na-mung-ming,na-Σng-ming,na+Σ+ng+m+ing,n a Σ ŋ m i ŋ,n a + Σ + ŋ + m + i ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak102,mu,1.sg.2.pl.fut.neg,na-mu-ang-mang-chui,na-Σ-ang-mang-chui,na+Σ+ang+m+ang+chui,n a Σ a ŋ m a ŋ tʃ ui,n a + Σ + a ŋ + m + a ŋ + tʃ ui,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak103,mu,1.sg.2.pl.fut.neg,na-mung-mang-chui,na-Σng-mang-chui,na+Σ+ng+m+ang+chui,n a Σ ŋ m a ŋ tʃ ui,n a + Σ + ŋ + m + a ŋ + tʃ ui,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak104,mu,1.sg.2.pl.fut.neg,na-mung-mung,na-Σng-Σng,na+Σ+ng+mu+ng,n a Σ ŋ m u ŋ,n a + Σ + ŋ + m u + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak105,mu,1.sg.2.pl.fut.neg,na-mung-ming,na-Σng-ming,na+Σ+ng+m+ing,n a Σ ŋ m i ŋ,n a + Σ + ŋ + m + i ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak106,mu,1.sg.3.pl.fut.neg,mu-ang-mang-ai,Σ-ang-mang-ai,Σ+ang+m+ang+ai,Σ a ŋ m a ŋ ai,Σ + a ŋ + m + a ŋ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak107,mu,1.sg.3.pl.fut.neg,mung-ming-ai,Σng-ming-ai,Σ+ng+m+ing+ai,Σ ŋ m i ŋ ai,Σ + ŋ + m + i ŋ + ai,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak108,mu,1.pl.excl.2.sg.fut.neg,na-mu-ang-mak-ung,na-Σ-ang-mak-ung,na+Σ+ang+mak+ung,n a Σ a ŋ m a k u ŋ,n a + Σ + a ŋ + m a k + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak109,mu,1.pl.excl.2.sg.fut.neg,na-mung-mung,na-Σng-Σng,na+Σ+ng+m+ung,n a Σ ŋ m u ŋ,n a + Σ + ŋ + m + u ŋ,informal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak110,mu,1.pl.excl.2.sg.fut.neg,na-mu-mak-ning,na-Σ-mak-ning,na+Σ+mak+n+ing,n a Σ m a k n i ŋ,n a + Σ + m a k + n + i ŋ,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak111,mu,1.pl.excl.2.pl.fut.neg,na-mu-ang-mak-ung,na-Σ-ang-mak-ung,na+Σ+ang+mak+ung,n a Σ a ŋ m a k u ŋ,n a + Σ + a ŋ + m a k + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak112,mu,1.pl.excl.2.pl.fut.neg,na-mung-mung,na-Σng-Σng,na+Σ+ng+m+ung,n a Σ ŋ m u ŋ,n a + Σ + ŋ + m + u ŋ,informal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak113,mu,1.sg.3.sg.fut.neg,mu-ang-mang,Σ-ang-mang,Σ+ang+m+ang,Σ a ŋ m a ŋ,Σ + a ŋ + m + a ŋ,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak114,mu,1.sg.3.sg.fut.neg,mung-ming,Σng-ming,Σ+ng+m+ing,Σ ŋ m i ŋ,Σ + ŋ + m + i ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak115,mu,1.pl.excl.3.sg.fut.neg,mu-ang-mak-ung,Σ-ang-mak-ung,Σ+ang+mak+ung,Σ a ŋ m a k u ŋ,Σ + a ŋ + m a k + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak116,mu,1.pl.excl.3.sg.fut.neg,mung-mung,Σng-Σng,Σ+ng+m+ung,Σ ŋ m u ŋ,Σ + ŋ + m + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak117,mu,1.pl.incl.3.sg.fut.neg,mu-ang-mak-me,Σ-ang-mak-me,Σ+ang+mak+me,Σ a ŋ m a k m e,Σ + a ŋ + m a k + m e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak118,mu,1.pl.incl.3.sg.fut.neg,mu-ang-mak-mi,Σ-ang-mak-mi,Σ+ang+mak+mi,Σ a ŋ m a k m i,Σ + a ŋ + m a k + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak119,mu,1.pl.excl.3.pl.fut.neg,mu-ang-mu-ang-ai,Σ-ang-Σ-ang-ai,Σ+ang+mu+ang+ai,Σ a ŋ m u a ŋ ai,Σ + a ŋ + m u + a ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak120,mu,1.pl.excl.3.pl.fut.neg,mung-mung-ai,Σng-Σng-ai,Σ+ng+mu+ng+ai,Σ ŋ m u ŋ ai,Σ + ŋ + m u + ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak121,mu,1.pl.incl.3.pl.fut.neg,mu-ang-mak-ai-me,Σ-ang-mak-ai-me,Σ+ang+mak+ai+me,Σ a ŋ m a k ai m e,Σ + a ŋ + m a k + ai + m e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak122,mu,1.pl.incl.3.pl.fut.neg,mung-mung-ai,Σng-Σng-ai,Σ+ng+m+ung+ai,Σ ŋ m u ŋ ai,Σ + ŋ + m + u ŋ + ai,sociolect_var,fusion; morphophon,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak123,mu,1.pl.incl.3.pl.fut.neg,na-mu-mak-ai,na-Σ-mak-ai,na+Σ+mak+ai,n a Σ m a k ai,n a + Σ + m a k + ai,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak124,se,2.sg.fut.neg,seng-mak-che,Σng-mak-che,Σ+ng+mak+che,Σ ŋ m a k tʃ e,Σ + ŋ + m a k + tʃ e,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak125,se,2.pl.fut.neg,seng-mak-chui,Σng-mak-chui,Σ+ng+mak+chui,Σ ŋ m a k tʃ ui,Σ + ŋ + m a k + tʃ ui,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak126,mu,2.sg.1.sg.fut.neg,na-mu-ang-mak-che,na-Σ-ang-mak-che,na+Σ+ang+mak+che,n a Σ a ŋ m a k tʃ e,n a + Σ + a ŋ + m a k + tʃ e,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak127,mu,2.sg.1.sg.fut.neg,na-mung-mak-che,na-Σng-mak-che,na+Σ+ng+mak+che,n a Σ ŋ m a k tʃ e,n a + Σ + ŋ + m a k + tʃ e,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak128,mu,2.sg.1.pl.excl.fut.neg,na-mu-ang-mak-che,na-Σ-ang-mak-che,na+Σ+ang+mak+che,n a Σ a ŋ m a k tʃ e,n a + Σ + a ŋ + m a k + tʃ e,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak129,mu,2.sg.1.pl.excl.fut.neg,na-mung-mak-che,na-Σng-mak-che,na+Σ+ng+mak+che,n a Σ ŋ m a k tʃ e,n a + Σ + ŋ + m a k + tʃ e,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak130,mu,2.pl.1.sg.fut.neg,na-mu-ang-mak-chui,na-Σ-ang-mak-chui,na+Σ+ang+mak+chui,n a Σ a ŋ m a k tʃ ui,n a + Σ + a ŋ + m a k + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak131,mu,2.pl.1.sg.fut.neg,na-mu-mak-ning,na-Σ-mak-ning,na+Σ+mak+n+ing,n a Σ m a k n i ŋ,n a + Σ + m a k + n + i ŋ,dialect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak132,mu,2.pl.1.pl.excl.fut.neg,na-mu-ang-mak-chui,na-Σ-ang-mak-chui,na+Σ+ang+mak+chui,n a Σ a ŋ m a k tʃ ui,n a + Σ + a ŋ + m a k + tʃ ui,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak133,mu,2.pl.1.pl.excl.fut.neg,na-mung-mak-chui,na-Σng-mak-chui,na+Σ+ng+mak+chui,n a Σ ŋ m a k tʃ ui,n a + Σ + ŋ + m a k + tʃ ui,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak134,mu,2.sg.3.sg.fut.neg,mu-ang-mak-che,Σ-ang-mak-che,Σ+ang+mak+che,Σ a ŋ m a k tʃ e,Σ + a ŋ + m a k + tʃ e,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak135,mu,2.sg.3.sg.fut.neg,mung-mak-che,Σng-mak-che,Σ+ng+mak+che,Σ ŋ m a k tʃ e,Σ + ŋ + m a k + tʃ e,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak136,mu,2.sg.3.pl.fut.neg,mu-ang-mak-ai-che,Σ-ang-mak-ai-che,Σ+ang+mak+ai+che,Σ a ŋ m a k ai tʃ e,Σ + a ŋ + m a k + ai + tʃ e,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak137,mu,2.sg.3.pl.fut.neg,mung-mak-ai-che,Σng-mak-ai-che,Σ+ng+mak+ai+che,Σ ŋ m a k ai tʃ e,Σ + ŋ + m a k + ai + tʃ e,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak138,mu,2.pl.3.sg.fut.neg,mu-ang-mak-chui,Σ-ang-mak-chui,Σ+ang+mak+chui,Σ a ŋ m a k tʃ ui,Σ + a ŋ + m a k + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak139,mu,2.pl.3.sg.fut.neg,mung-mak-chei,Σng-mak-chei,Σ+ng+mak+chei,Σ ŋ m a k tʃ ei,Σ + ŋ + m a k + tʃ ei,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak140,mu,2.pl.3.pl.fut.neg,mu-ang-mak-ai-chei,Σ-ang-mak-ai-chei,Σ+ang+mak+ai+chei,Σ a ŋ m a k ai tʃ ei,Σ + a ŋ + m a k + ai + tʃ ei,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak141,mu,2.pl.3.pl.fut.neg,mu-ang-mak-ai-chui,Σ-ang-mak-ai-chui,Σ+ang+mak+ai+chui,Σ a ŋ m a k ai tʃ ui,Σ + a ŋ + m a k + ai + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak142,mu,2.pl.3.pl.fut.neg,mung-mak-ai-chei,Σng-mak-ai-chei,Σ+ng+mak+ai+chei,Σ ŋ m a k ai tʃ ei,Σ + ŋ + m a k + ai + tʃ ei,dialect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak143,se,3.sg.fut.neg,seng-mak,Σng-mak,Σ+ng+mak,Σ ŋ m a k,Σ + ŋ + m a k,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak144,se,3.pl.fut.neg,se-ang-mak-ai,Σ-ang-mak-ai,Σ+ang+mak+ai,Σ a ŋ m a k ai,Σ + a ŋ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak145,mu,3.sg.1.sg.fut.neg,na-mu-ang-mak,na-Σ-ang-mak,na+Σ+ang+mak,n a Σ a ŋ m a k,n a + Σ + a ŋ + m a k,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak146,mu,3.sg.1.sg.fut.neg,na-mung-mak,na-Σng-mak,na+Σ+ng+mak,n a Σ ŋ m a k,n a + Σ + ŋ + m a k,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak147,mu,3.sg.1.pl.excl.fut.neg,na-mu-ang-mak,na-Σ-ang-mak,na+Σ+ang+mak,n a Σ a ŋ m a k,n a + Σ + a ŋ + m a k,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak148,mu,3.sg.1.pl.excl.fut.neg,na-mung-mak,na-Σng-mak,na+Σ+ng+mak,n a Σ ŋ m a k,n a + Σ + ŋ + m a k,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak149,mu,3.sg.1.pl.incl.fut.neg,na-mu-ang-mak,na-Σ-ang-mak,na+Σ+ang+mak,n a Σ a ŋ m a k,n a + Σ + a ŋ + m a k,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak150,mu,3.sg.1.pl.incl.fut.neg,na-mung-mak,na-Σng-mak,na+Σ+ng+mak,n a Σ ŋ m a k,n a + Σ + ŋ + m a k,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak151,mu,3.pl.1.sg.fut.neg,na-mung-mak-ai,na-Σng-mak-ai,na+Σ+ng+mak+ai,n a Σ ŋ m a k ai,n a + Σ + ŋ + m a k + ai,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak152,mu,3.pl.1.pl.excl.fut.neg,na-mu-ang-mak-ai,na-Σ-ang-mak-ai,na+Σ+ang+mak+ai,n a Σ a ŋ m a k ai,n a + Σ + a ŋ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak153,mu,3.pl.1.pl.excl.fut.neg,na-mu-mak-ang-ai,na-Σ-mak-ang-ai,na+Σ+mak+ang+ai,n a Σ m a k a ŋ ai,n a + Σ + m a k + a ŋ + ai,sociolect_var,variable_order,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak154,mu,3.pl.1.pl.incl.fut.neg,na-mu-ang-mak-ai,na-Σ-ang-mak-ai,na+Σ+ang+mak+ai,n a Σ a ŋ m a k ai,n a + Σ + a ŋ + m a k + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak155,mu,3.pl.1.pl.incl.fut.neg,na-mung-mak-ai,na-Σng-mak-ai,na+Σ+ng+mak+ai,n a Σ ŋ m a k ai,n a + Σ + ŋ + m a k + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak156,mu,3.sg.2.sg.fut.neg,na-mu-ang-mak,na-Σ-ang-mak,na+Σ+ang+mak,n a Σ a ŋ m a k,n a + Σ + a ŋ + m a k,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak157,mu,3.sg.2.sg.fut.neg,na-mung-mak,na-Σng-mak,na+Σ+ng+mak,n a Σ ŋ m a k,n a + Σ + ŋ + m a k,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak158,mu,3.sg.2.pl.fut.neg,na-mu-ang-mak-chui,na-Σ-ang-mak-chui,na+Σ+ang+mak+chui,n a Σ a ŋ m a k tʃ ui,n a + Σ + a ŋ + m a k + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak159,mu,3.sg.2.pl.fut.neg,mung-mai-ai-chei,Σng-mai-ai-chei,Σ+ng+mai+ai+che,Σ ŋ m ai ai tʃ e,Σ + ŋ + m ai + ai + tʃ e,dialect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak160,mu,3.pl.2.sg.fut.neg,na-mu-ang-mak-ai,na-Σ-ang-mak-ai,na+Σ+ang+mak+ai,n a Σ a ŋ m a k ai,n a + Σ + a ŋ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak161,mu,3.pl.2.sg.fut.neg,na-mu-mak-ang-ai,na-Σ-mak-ang-ai,na+Σ+mak+ang+ai,n a Σ m a k a ŋ ai,n a + Σ + m a k + a ŋ + ai,sociolect_var,variable_order,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak162,mu,3.pl.2.pl.fut.neg,na-mu-ang-mak-ai,na-Σ-ang-mak-ai,na+Σ+ang+mak+ai,n a Σ a ŋ m a k ai,n a + Σ + a ŋ + m a k + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak163,mu,3.pl.2.pl.fut.neg,na-mung-mak-ai,na-Σng-mak-ai,na+Σ+ng+mak+ai,n a Σ ŋ m a k ai,n a + Σ + ŋ + m a k + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak164,mu,3.sg.3.sg.fut.neg,mu-ang-mak,Σ-ang-mak,Σ+ang+mak,Σ a ŋ m a k,Σ + a ŋ + m a k,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak165,mu,3.sg.3.sg.fut.neg,mung-mak,Σng-mak,Σ+ng+mak,Σ ŋ m a k,Σ + ŋ + m a k,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak166,mu,3.sg.3.pl.fut.neg,mu-ang-mak-ai,Σ-ang-mak-ai,Σ+ang+mak+ai,Σ a ŋ m a k ai,Σ + a ŋ + m a k + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak167,mu,3.sg.3.pl.fut.neg,mung-mak-ai,Σng-mak-ai,Σ+ng+mak+ai,Σ ŋ m a k ai,Σ + ŋ + m a k + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak168,mu,3.pl.3.sg.fut.neg,mu-ang-mak-ai,Σ-ang-mak-ai,Σ+ang+mak+ai,Σ a ŋ m a k ai,Σ + a ŋ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak169,mu,3.pl.3.pl.fut.neg,mu-ang-mak-ai,Σ-ang-mak-ai,Σ+ang+mak+ai,Σ a ŋ m a k ai,Σ + a ŋ + m a k + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak170,mu,3.pl.3.pl.fut.neg,mung-mak-ai,Σng-mak-ai,Σ+ng+mak+ai,Σ ŋ m a k ai,Σ + ŋ + m a k + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak171,se,1.sg.nfut.aff,ka-se-ing,ka-Σ-ing,ka+Σ+ing,k a Σ i ŋ,k a + Σ + i ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak172,se,1.sg.nfut.aff,ka-se-ang,ka-Σ-ang,ka+Σ+ang,k a Σ a ŋ,k a + Σ + a ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak173,se,1.pl.excl.nfut.aff,ka-se-ung,ka-Σ-ung,ka+Σ+ung,k a Σ u ŋ,k a + Σ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak174,se,1.pl.incl.nfut.aff,ka-se-mi,ka-Σ-mi,ka+Σ+mi,k a Σ m i,k a + Σ + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak175,mu,1.sg.2.sg.nfut.aff,ka-na-mu-che,ka-na-Σ-che,ka+na+Σ+che,k a n a Σ tʃ e,k a + n a + Σ + tʃ e,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak176,mu,1.sg.2.sg.nfut.aff,ka-mu-che,ka-Σ-che,ka+Σ+che,k a Σ tʃ e,k a + Σ + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak177,mu,1.sg.2.pl.nfut.aff,ka-na-mu-chui,ka-na-Σ-chui,ka+na+Σ+chui,k a n a Σ tʃ ui,k a + n a + Σ + tʃ ui,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak178,mu,1.sg.2.pl.nfut.aff,ka-mu-chui,ka-Σ-chui,ka+Σ+chui,k a Σ tʃ ui,k a + Σ + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak179,mu,1.sg.2.pl.nfut.aff,ka-mu-chei,ka-Σ-chei,ka+Σ+chei,k a Σ tʃ ei,k a + Σ + tʃ ei,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak180,mu,1.pl.excl.2.sg.nfut.aff,kan-na-mu-che,kan-na-Σ-che,ka+n+na+Σ+che,k a n n a Σ tʃ e,k a + n + n a + Σ + tʃ e,unspecified,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak181,mu,1.pl.excl.2.sg.nfut.aff,kan-ni-mu,kan-ni-Σ,ka+n+ni+Σ,k a n n i Σ,k a + n + n i + Σ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak182,mu,1.pl.excl.2.pl.nfut.aff,kan-na-mu-chui,kan-na-Σ-chui,ka+n+na+Σ+chui,k a n n a Σ tʃ ui,k a + n + n a + Σ + tʃ ui,unspecified,mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak183,mu,1.pl.excl.2.pl.nfut.aff,kan-mu-chui,kan-Σ-chui,ka+n+Σ+chui,k a n Σ tʃ ui,k a + n + Σ + tʃ ui,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak184,mu,1.pl.excl.2.pl.nfut.aff,kan-mu-chei,kan-Σ-chei,ka+n+Σ+chei,k a n Σ tʃ ei,k a + n + Σ + tʃ ei,dialect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak185,mu,1.sg.3.sg.nfut.aff,ka-mu,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak186,mu,1.sg.3.sg.nfut.aff,ka-mung,ka-Σng,ka+Σ+ng,k a Σ ŋ,k a + Σ + ŋ,sociolect_var,fusion; mult_exponence,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak187,mu,1.sg.3.pl.nfut.aff,ka-mu-ai,ka-Σ-ai,ka+Σ+ai,k a Σ ai,k a + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak188,mu,1.pl.excl.3.sg.nfut.aff,kan-mu,kan-Σ,ka+n+Σ,k a n Σ,k a + n + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak189,mu,1.pl.incl.3.sg.nfut.aff,ni-mu,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak190,mu,1.pl.excl.3.pl.nfut.aff,kan-mu-ai,kan-Σ-ai,ka+n+Σ+ai,k a n Σ ai,k a + n + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak191,mu,1.pl.excl.3.pl.nfut.aff,kan-mung,kan-Σng,ka+n+Σ+ng,k a n Σ ŋ,k a + n + Σ + ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak192,mu,1.pl.excl.3.pl.nfut.aff,kan-mu-ung,kan-Σ-ung,ka+n+Σ+ung,k a n Σ u ŋ,k a + n + Σ + u ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak193,mu,1.pl.incl.3.pl.nfut.aff,ni-mu-ai,ni-Σ-ai,ni+Σ+ai,n i Σ ai,n i + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak194,se,2.sg.nfut.aff,ka-se-che,ka-Σ-che,ka+Σ+che,k a Σ tʃ e,k a + Σ + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak195,se,2.pl.nfut.aff,ka-se-chui,ka-Σ-chui,ka+Σ+chui,k a Σ tʃ ui,k a + Σ + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak196,mu,2.sg.1.sg.nfut.aff,na-na-mu,na-na-Σ,na+na+Σ,n a n a Σ,n a + n a + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak197,mu,2.sg.1.sg.nfut.aff,na-mu-eng,na-Σ-eng,na+Σ+eng,n a Σ e ŋ,n a + Σ + e ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak198,mu,2.sg.1.pl.excl.nfut.aff,na-na-mu-ung,na-na-Σ-ung,na+na+Σ+ung,n a n a Σ u ŋ,n a + n a + Σ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak199,mu,2.sg.1.pl.excl.nfut.aff,na-mu-ung,na-Σ-ung,na+Σ+ung,n a Σ u ŋ,n a + Σ + u ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak200,mu,2.pl.1.sg.nfut.aff,nan-na-mu,nan-na-Σ,na+n+na+Σ,n a n n a Σ,n a + n + n a + Σ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak201,mu,2.pl.1.sg.nfut.aff,nan-mu-eng,nan-Σ-eng,na+n+Σ+eng,n a n Σ e ŋ,n a + n + Σ + e ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak202,mu,2.pl.1.pl.excl.nfut.aff,nan-mu-ung,nan-Σ-ung,na+n+Σ+ung,n a n Σ u ŋ,n a + n + Σ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak203,mu,2.pl.1.pl.excl.nfut.aff,nan-na-mu-ung,nan-na-Σ-ung,nan+na+Σ+ung,n a n n a Σ u ŋ,n a n + n a + Σ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak204,mu,2.pl.1.pl.excl.nfut.aff,nan-ni-mu-ung,nan-ni-Σ-ung,nan+ni+Σ+ung,n a n n i Σ u ŋ,n a n + n i + Σ + u ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak205,mu,2.sg.3.sg.nfut.aff,na-mu,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak206,mu,2.sg.3.pl.nfut.aff,na-mu-ai,na-Σ-ai,na+Σ+ai,n a Σ ai,n a + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak207,mu,2.pl.3.sg.nfut.aff,nan-mu,nan-Σ,na+n+Σ,n a n Σ,n a + n + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak208,mu,2.pl.3.pl.nfut.aff,nan-mu-ai,nan-Σ-ai,na+n+Σ+ai,n a n Σ ai,n a + n + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak209,se,3.sg.nfut.aff,ka-se,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak210,se,3.pl.nfut.aff,ka-se-ai,ka-Σ-ai,ka+Σ+ai,k a Σ ai,k a + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak211,mu,3.sg.1.sg.nfut.aff,a-na-mu,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak212,mu,3.sg.1.sg.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak213,mu,3.sg.1.pl.excl.nfut.aff,a-na-mu-ung,a-na-Σ-ung,a+na+Σ+ung,a n a Σ u ŋ,a + n a + Σ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak214,mu,3.sg.1.pl.excl.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak215,mu,3.sg.1.pl.incl.nfut.aff,a-na-mu-mi,a-na-Σ-mi,a+na+Σ+mi,a n a Σ m i,a + n a + Σ + m i,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak216,mu,3.sg.1.pl.incl.nfut.aff,a-na-mu-me,a-na-Σ-me,a+na+Σ+me,a n a Σ m e,a + n a + Σ + m e,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak217,mu,3.sg.1.pl.incl.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak218,mu,3.pl.1.sg.nfut.aff,in-na-mu,in-na-Σ,i+n+na+Σ,i n n a Σ,i + n + n a + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak219,mu,3.pl.1.sg.nfut.aff,an-ni-mu,an-ni-Σ,a+n+ni+Σ,a n n i Σ,a + n + n i + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak220,mu,3.pl.1.pl.excl.nfut.aff,in-na-mu-ung,in-na-Σ-ung,i+n+na+Σ+ung,i n n a Σ u ŋ,i + n + n a + Σ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak221,mu,3.pl.1.pl.excl.nfut.aff,an-na-mu-ung,an-na-Σ-ung,a+n+na+Σ+ung,a n n a Σ u ŋ,a + n + n a + Σ + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak222,mu,3.pl.1.pl.excl.nfut.aff,an-mung,an-Σng,a+n+Σ+ng,a n Σ ŋ,a + n + Σ + ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak223,mu,3.pl.1.pl.excl.nfut.aff,an-ni-mu,an-ni-Σ,a+n+ni+Σ,a n n i Σ,a + n + n i + Σ,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak224,mu,3.pl.1.pl.incl.nfut.aff,in-na-mu-mi,in-na-Σ-mi,i+n+na+Σ+mi,i n n a Σ m i,i + n + n a + Σ + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak225,mu,3.pl.1.pl.incl.nfut.aff,an-na-mu-mi,an-na-Σ-mi,a+n+na+Σ+mi,a n n a Σ m i,a + n + n a + Σ + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak226,mu,3.pl.1.pl.incl.nfut.aff,an-mu-ung,an-Σ-ung,a+n+Σ+ung,a n Σ u ŋ,a + n + Σ + u ŋ,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak227,mu,3.sg.2.sg.nfut.aff,a-na-mu-che,a-na-Σ-che,a+na+Σ+che,a n a Σ tʃ e,a + n a + Σ + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak228,mu,3.sg.2.sg.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak229,mu,3.sg.2.pl.nfut.aff,a-na-mu-chui,a-na-Σ-chui,a+na+Σ+chui,a n a Σ tʃ ui,a + n a + Σ + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak230,mu,3.sg.2.pl.nfut.aff,a-ni-mung,a-ni-Σng,a+ni+Σ+ng,a n i Σ ŋ,a + n i + Σ + ŋ,dialect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak231,mu,3.pl.2.sg.nfut.aff,an-na-mu-che,an-na-Σ-che,a+n+na+Σ+che,a n n a Σ tʃ e,a + n + n a + Σ + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak232,mu,3.pl.2.sg.nfut.aff,an-mu-che,an-Σ-che,a+n+Σ+che,a n Σ tʃ e,a + n + Σ + tʃ e,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak233,mu,3.pl.2.pl.nfut.aff,an-na-mu-chui,an-na-Σ-chui,a+n+na+Σ+chui,a n n a Σ tʃ ui,a + n + n a + Σ + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak234,mu,3.pl.2.pl.nfut.aff,an-mu-chui,an-Σ-chui,a+n+Σ+chui,a n Σ tʃ ui,a + n + Σ + tʃ ui,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak235,mu,3.pl.2.pl.nfut.aff,an-ni-mu,an-ni-Σ,an+ni+Σ,a n n i Σ,a n + n i + Σ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak236,mu,3.sg.3.sg.nfut.aff,a-mu,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak237,mu,3.sg.3.pl.nfut.aff,a-mu-ai,a-Σ-ai,a+Σ+ai,a Σ ai,a + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak238,mu,3.pl.3.sg.nfut.aff,an-mu,an-Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak239,mu,3.pl.3.pl.nfut.aff,an-mu-ai,an-Σ-ai,a+n+Σ+ai,a n Σ ai,a + n + Σ + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak240,mu,3.pl.3.pl.nfut.aff,an-mu,an-Σ,a+n+Σ,a n Σ,a + n + Σ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak241,se,1.sg.nfut.neg,se-mang,Σ-mang,Σ+m+ang,Σ m a ŋ,Σ + m + a ŋ,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak242,se,1.pl.excl.nfut.neg,se-mak-ung,Σ-mak-ung,Σ+mak+ung,Σ m a k u ŋ,Σ + m a k + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak243,se,1.pl.excl.nfut.neg,se-mung,Σ-Σng,Σ+m+ung,Σ m u ŋ,Σ + m + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak244,se,1.pl.incl.nfut.neg,se-mak-mi,Σ-mak-mi,Σ+mak+mi,Σ m a k m i,Σ + m a k + m i,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak245,mu,1.sg.2.sg.nfut.neg,na-mu-mang-che,na-Σ-mang-che,na+Σ+m+ang+che,n a Σ m a ŋ tʃ e,n a + Σ + m + a ŋ + tʃ e,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak246,mu,1.sg.2.sg.nfut.neg,na-mu-ming,na-Σ-ming,na+Σ+m+ing,n a Σ m i ŋ,n a + Σ + m + i ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak247,mu,1.sg.2.pl.nfut.neg,na-mu-mang-chui,na-Σ-mang-chui,na+Σ+m+ang+chui,n a Σ m a ŋ tʃ ui,n a + Σ + m + a ŋ + tʃ ui,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak248,mu,1.sg.2.pl.nfut.neg,mu-mak-chui-ung,Σ-mak-chui-ung,Σ+mak+chui+ung,Σ m a k tʃ ui u ŋ,Σ + m a k + tʃ ui + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak249,mu,1.pl.excl.2.sg.nfut.neg,na-mu-mung-che,na-Σ-Σng-che,na+Σ+m+ung+che,n a Σ m u ŋ tʃ e,n a + Σ + m + u ŋ + tʃ e,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak250,mu,1.pl.excl.2.pl.nfut.neg,na-mu-mang-chui,na-Σ-mang-chui,na+Σ+m+ang+chui,n a Σ m a ŋ tʃ ui,n a + Σ + m + a ŋ + tʃ ui,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak251,mu,1.pl.excl.2.pl.nfut.neg,na-mu-mung-chui,na-Σ-Σng-chui,na+Σ+m+ung+chui,n a Σ m u ŋ tʃ ui,n a + Σ + m + u ŋ + tʃ ui,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak252,mu,1.pl.excl.2.pl.nfut.neg,na-mu-mak-ung-chui,na-Σ-mak-ung-chui,na+Σ+mak+ung+chui,n a Σ m a k u ŋ tʃ ui,n a + Σ + m a k + u ŋ + tʃ ui,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak253,mu,1.pl.excl.2.pl.nfut.neg,na-mu-mung,na-Σ-Σng,na+Σ+m+ung,n a Σ m u ŋ,n a + Σ + m + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak254,mu,1.pl.excl.2.pl.nfut.neg,mu-mak-chei-ung,Σ-mak-chei-ung,Σ+mak+chei+ung,Σ m a k tʃ ei u ŋ,Σ + m a k + tʃ ei + u ŋ,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak255,mu,1.sg.3.sg.nfut.neg,mu-mang,Σ-mang,Σ+m+ang,Σ m a ŋ,Σ + m + a ŋ,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak256,mu,1.sg.3.sg.nfut.neg,mu-ming,Σ-ming,Σ+m+ing,Σ m i ŋ,Σ + m + i ŋ,sociolect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak257,mu,1.sg.3.pl.nfut.neg,mu-mang-ai,Σ-mang-ai,Σ+m+ang+ai,Σ m a ŋ ai,Σ + m + a ŋ + ai,unspecified,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak258,mu,1.sg.3.pl.nfut.neg,mu-ming-ai,Σ-ming-ai,Σ+m+ing+ai,Σ m i ŋ ai,Σ + m + i ŋ + ai,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak259,mu,1.pl.excl.3.sg.nfut.neg,mu-mak-ung,Σ-mak-ung,Σ+mak+ung,Σ m a k u ŋ,Σ + m a k + u ŋ,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak260,mu,1.pl.excl.3.sg.nfut.neg,mu-mung,Σ-Σng,Σ+m+ung,Σ m u ŋ,Σ + m + u ŋ,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak261,mu,1.pl.incl.3.sg.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak262,mu,1.pl.incl.3.sg.nfut.neg,mu-mak-me,Σ-mak-me,Σ+mak+me,Σ m a k m e,Σ + m a k + m e,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak263,mu,1.pl.incl.3.sg.nfut.neg,mu-mak-mi,Σ-mak-mi,Σ+mak+mi,Σ m a k m i,Σ + m a k + m i,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak264,mu,1.pl.excl.3.pl.nfut.neg,mu-mak-ung-ai,Σ-mak-ung-ai,Σ+mak+ung+ai,Σ m a k u ŋ ai,Σ + m a k + u ŋ + ai,formal,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak265,mu,1.pl.excl.3.pl.nfut.neg,mu-mung-ai,Σ-Σng-ai,Σ+m+ung+ai,Σ m u ŋ ai,Σ + m + u ŋ + ai,informal,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak266,mu,1.pl.incl.3.pl.nfut.neg,mu-mak-ai-me,Σ-mak-ai-me,Σ+mak+ai+me,Σ m a k ai m e,Σ + m a k + ai + m e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak267,mu,1.pl.incl.3.pl.nfut.neg,na-mu-mak-ai,na-Σ-mak-ai,na+Σ+mak+ai,n a Σ m a k ai,n a + Σ + m a k + ai,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak268,se,2.sg.nfut.neg,se-mak-che,Σ-mak-che,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak269,se,2.pl.nfut.neg,se-mak-chei,Σ-mak-chei,Σ+mak+chei,Σ m a k tʃ ei,Σ + m a k + tʃ ei,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak270,se,2.pl.nfut.neg,se-mak-chui,Σ-mak-chui,Σ+mak+chui,Σ m a k tʃ ui,Σ + m a k + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak271,mu,2.sg.1.sg.nfut.neg,na-mu-mak-che,na-Σ-mak-che,na+Σ+mak+che,n a Σ m a k tʃ e,n a + Σ + m a k + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak272,mu,2.sg.1.pl.excl.nfut.neg,na-mu-mak-che,na-Σ-mak-che,na+Σ+mak+che,n a Σ m a k tʃ e,n a + Σ + m a k + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak273,mu,2.pl.1.sg.nfut.neg,na-mu-mak-chui,na-Σ-mak-chui,na+Σ+mak+chui,n a Σ m a k tʃ ui,n a + Σ + m a k + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak274,mu,2.pl.1.sg.nfut.neg,na-mu-mak-chei,na-Σ-mak-chei,na+Σ+mak+chei,n a Σ m a k tʃ ei,n a + Σ + m a k + tʃ ei,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak275,mu,2.pl.1.pl.excl.nfut.neg,nan-mu-mak-chui,nan-Σ-mak-chui,na+n+Σ+mak+chui,n a n Σ m a k tʃ ui,n a + n + Σ + m a k + tʃ ui,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak276,mu,2.pl.1.pl.excl.nfut.neg,na-mu-mak-ung,na-Σ-mak-ung,na+Σ+mak+ung,n a Σ m a k u ŋ,n a + Σ + m a k + u ŋ,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak277,mu,2.sg.3.sg.nfut.neg,mu-mak-che,Σ-mak-che,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak278,mu,2.sg.3.pl.nfut.neg,mu-mak-ai-che,Σ-mak-ai-che,Σ+mak+ai+che,Σ m a k ai tʃ e,Σ + m a k + ai + tʃ e,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak279,mu,2.pl.3.sg.nfut.neg,mu-mak-chui,Σ-mak-chui,Σ+mak+chui,Σ m a k tʃ ui,Σ + m a k + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak280,mu,2.pl.3.sg.nfut.neg,mu-mak-chei,Σ-mak-chei,Σ+mak+chei,Σ m a k tʃ ei,Σ + m a k + tʃ ei,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak281,mu,2.pl.3.pl.nfut.neg,mu-mak-ai-chui,Σ-mak-ai-chui,Σ+mak+ai+chui,Σ m a k ai tʃ ui,Σ + m a k + ai + tʃ ui,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak282,mu,2.pl.3.pl.nfut.neg,mu-mak-ai-chei,Σ-mak-ai-chei,Σ+mak+ai+chei,Σ m a k ai tʃ ei,Σ + m a k + ai + tʃ ei,dialect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak283,se,3.sg.nfut.neg,se-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak284,se,3.pl.nfut.neg,se-mak-ai,Σ-mak-ai,Σ+mak+ai,Σ m a k ai,Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak285,mu,3.sg.1.sg.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak286,mu,3.sg.1.pl.excl.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak287,mu,3.sg.1.pl.incl.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak288,mu,3.pl.1.sg.nfut.neg,na-mu-mak-ai,na-Σ-mak-ai,na+Σ+mak+ai,n a Σ m a k ai,n a + Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak289,mu,3.pl.1.pl.excl.nfut.neg,na-mu-mak-ai,na-Σ-mak-ai,na+Σ+mak+ai,n a Σ m a k ai,n a + Σ + m a k + ai,sociolect_var,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak290,mu,3.pl.1.pl.excl.nfut.neg,mu-mak-ai-ung,Σ-mak-ai-ung,Σ+mak+ai+ung,Σ m a k ai u ŋ,Σ + m a k + ai + u ŋ,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak291,mu,3.pl.1.pl.incl.nfut.neg,na-mu-mak-ai,na-Σ-mak-ai,na+Σ+mak+ai,n a Σ m a k ai,n a + Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak292,mu,3.sg.2.sg.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak293,mu,3.sg.2.pl.nfut.neg,na-mu-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak294,mu,3.sg.2.pl.nfut.neg,na-mung-mak,na-Σng-mak,na+Σ+ng+mak,n a Σ ŋ m a k,n a + Σ + ŋ + m a k,dialect_var,fusion,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak295,mu,3.pl.2.sg.nfut.neg,na-mu-mak-ai,na-Σ-mak-ai,na+Σ+mak+ai,n a Σ m a k ai,n a + Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak296,mu,3.pl.2.pl.nfut.neg,na-mu-mak-ai,na-Σ-mak-ai,na+Σ+mak+ai,n a Σ m a k ai,n a + Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak297,mu,3.sg.3.sg.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak298,mu,3.sg.3.pl.nfut.neg,mu-mak-ai,Σ-mak-ai,Σ+mak+ai,Σ m a k ai,Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak299,mu,3.pl.3.sg.nfut.neg,mu-mak-ai,Σ-mak-ai,Σ+mak+ai,Σ m a k ai,Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak
+komnungthangtampak300,mu,3.pl.3.pl.nfut.neg,mu-mak-ai,Σ-mak-ai,Σ+mak+ai,Σ m a k ai,Σ + m a k + ai,unspecified,,Kanshouwa2026NungthangtampakKom,nopage,komnungthangtampak

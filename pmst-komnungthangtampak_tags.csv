@@ -1,0 +1,10 @@
+tag_id,tag_column_name,comment,language_id
+fusion,analysis_tag,form exhibits fusion (morphophonology) in (at least) one of the morphemes,komnungthangtampak
+morphophon,analysis_tag,form exhibits morphophonological process(es) such as assimilation or fusion,komnungthangtampak
+mult_exponence,analysis_tag,form has one category marked multiple times (multiple exponence),komnungthangtampak
+variable_order,analysis_tag,form contains morphemes that can variably order,komnungthangtampak
+dialect_var,variants_tag,form is from other dialect,komnungthangtampak
+formal,variants_tag,form is used in formal contexts,komnungthangtampak
+informal,variants_tag,form is informal/colloquial,komnungthangtampak
+sociolect_var,variants_tag,form is from other sociolect,komnungthangtampak
+unspecified,variants_tag,form is not used in special contexts,komnungthangtampak
